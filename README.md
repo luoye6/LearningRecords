@@ -1,0 +1,2 @@
+# LearningRecords
+Stayhungry，Stayfoolish
